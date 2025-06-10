@@ -16,7 +16,6 @@ pip install numpy tensorflow matplotlib opencv-python
 pip install scipy
 
 
-
 ```python
 import tensorflow as tf
 import cv2
